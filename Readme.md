@@ -1,4 +1,4 @@
-# PDSum: Prototype-driven Continuous Summarization of Evolving Multi-document Sets Stream (WWW23)
+# PDSum
 ### Packages
 See requirements.txt (pip install -r requirements.txt)
 
