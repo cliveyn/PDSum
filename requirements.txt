@@ -1,0 +1,8 @@
+evaluate
+scikit-learn
+scipy
+sentence-transformers
+spacy
+numpy
+pandas
+torch>=1.12.1
