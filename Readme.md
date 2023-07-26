@@ -18,7 +18,7 @@ Go to [link](https://www.dropbox.com/sh/0mc7i10qype7og6/AAAARaHV_UFFc6J70YXTwGDI
 For your own dataset, please preprocess the dataset in JSON file with the following columns
 - date: the publication date of a document (the default temporal context of summaries)
 - sentences: [s1, s2, .., sn] - a list of sentences in a document
-- sentence_tokens: [[t1, t2, ..tn],[t1,...]] - list of tokens in each sentence
+- sentence_tokens: [[t1, t2, ..tn],[t1,...]] - lists of tokens in each sentence
 - sentence_counts: the number of sentences in a document
 - Query: the identifier for a document set (e.g., type/category/query)
 
