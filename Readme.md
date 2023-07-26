@@ -16,7 +16,7 @@ Go to [link](https://www.dropbox.com/sh/0mc7i10qype7og6/AAAARaHV_UFFc6J70YXTwGDI
 #### Sample (WCEP)
 ![dataset](https://github.com/cliveyn/PDSum/blob/main/dataset_sample.jpg)
 For your own dataset, please preprocess the dataset in JSON file with the following columns
-- date: the publish date of a document
+- date: the publication date of a document (the default temporal context of summaries)
 - sentences: [s1, s2, .., sn] - a list of sentences in a document
 - sentence_tokens: [[t1, t2, ..tn],[t1,...]] - list of tokens in each sentence
 - sentence_counts: the number of sentences in a document
